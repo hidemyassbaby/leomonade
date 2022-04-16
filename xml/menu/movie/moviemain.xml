@@ -1,14 +1,23 @@
-<dir>
-<title>Cartoons</title>
-<link>http://www.example.com/menus/cartoons.xml</link>
-</dir>
-
-<item>
-<title>[COLOR red][B]2022 Movie's[/B][/COLOR]</title>
-<link>tmdb/list/ls079056302</link>
-</item>
-
-<dir>
-<title>Trending</title>
-<link>https://trakt.tv/movies/trending</link>
-</dir>
+{
+    "items": [
+        {
+            "type": "dir",
+            "title": "[COLOR goldenrod]Now Playing[/COLOR]",
+            "link": "tmdb/movie/now_playing"
+        },        
+        {
+            "type": "dir",
+            "title": "[COLOR goldenrod]Popular[/COLOR]",
+            "link": "tmdb/movie/popular"
+        },
+        {
+            "type": "dir",
+            "title": "[COLOR goldenrod]Top Rated[/COLOR]",
+            "link": "tmdb/movie/top_rated"
+        },
+        {
+            "type": "dir",
+            "title": "[COLOR goldenrod]Top 250[/COLOR]",
+            "link": "tmdb/list/634"
+        }
+    ]

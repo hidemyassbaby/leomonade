@@ -7,3 +7,8 @@
 <title>[COLOR red][B]2022 Movie's[/B][/COLOR]</title>
 <link>tmdb/list/ls079056302</link>
 </item>
+
+<dir>
+<title>Trending</title>
+<link>https://trakt.tv/movies/trending</link>
+</dir>

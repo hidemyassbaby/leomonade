@@ -1,4 +1,9 @@
 <dir>
-				<title>Cartoons</title>
-				<link>http://www.example.com/menus/cartoons.xml</link>
-				</dir>
+<title>Cartoons</title>
+<link>http://www.example.com/menus/cartoons.xml</link>
+</dir>
+
+<item>
+<title>[COLOR red][B]TMDB Top 250[/B][/COLOR]</title>
+<link>tmdb/list/634</link>
+</item>

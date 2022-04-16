@@ -6,9 +6,21 @@
 <xml>
 
 <dir>
+<title>--- Addon in BETA ---</title>
+<link>https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/movie/moviemain.xml</link>
+</dir>
+
+
+<dir>
 <title>Movies</title>
 <link>https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/movie/moviemain.xml</link>
 </dir>
   
+<dir>
+<title>Movies .json</title>
+<link>http://narcacist.com/Jen4k/4ksection.json</link>
+</dir>
 
 </xml>
+
+

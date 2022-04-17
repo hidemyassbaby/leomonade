@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layouttype>Lemonade</layoutype>
+<!----   DO NOT EDIT ABOVE THIS LINE!!!  BASIC OBFUSCATION METHODS!!!-->
+
+<xml>
+
+<dir>
+<title>--- Addon in BETA ---</title>
+<thumbnail>https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png</thumbnail>
+<link>https://</link>
+</dir>
+
+
+<dir>
+<title>Movies</title>
+<thumbnail>https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png</thumbnail>
+<link>https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/movie/moviemain.xml</link>
+</dir>
+
+ <plugin>
+	<title>[COLORorange]-- Authorise Debrid --[/COLOR]</title>
+	<link>resolveurl_auth</link>
+	<thumbnail>https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png</thumbnail>
+</plugin>
+
+ <plugin>
+	<title>[COLORorange]Open Addon Settings[/COLOR]</title>
+	<link>settings</link>
+	<thumbnail>https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+	<title>[COLORorange]Open ResolveURL Settings[/COLOR]</title>
+	<link>resolveurl_settings</link>
+	<thumbnail>https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png</thumbnail>
+</plugin>
+
+</xml>

@@ -15,21 +15,20 @@
         {
             "link": "resolveurl_auth", 
             "type": "unknown", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "title": "[COLORorange]-- Authorise Debrid --[/COLOR]"
-        },
-        { 
-            "title": "[COLOR khaki]Open Addon Settings [/COLOR]", 
-            "type": "item", 
+        }, 
+        {
             "link": "settings", 
-            "thumbnail": "", 
-            "fanart": ""
+            "type": "item", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "[COLORorange]Open Addon Settings[/COLOR]"
         }, 
-        { 
-            "title": "[COLOR khaki]Open ResolveURL Settings[/COLOR]", 
-            "type": "plugin", 
+        {
             "link": "resolveurl_settings", 
-            "thumbnail": "", 
-            "fanart": ""
-        }, 
+            "type": "plugin", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "[COLORorange]Open ResolveURL Settings[/COLOR]"
+        }
     ]
 }

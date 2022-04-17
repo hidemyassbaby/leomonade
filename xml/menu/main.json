@@ -13,9 +13,23 @@
             "title": "Movies"
         }, 
         {
-            "link": "resolveurl_auth/", 
+            "link": "resolveurl_auth", 
             "type": "unknown", 
             "title": "[COLORorange]-- Authorise Debrid --[/COLOR]"
-        }
+        },
+        { 
+            "title": "[COLOR khaki]Open Addon Settings [/COLOR]", 
+            "type": "item", 
+            "link": "settings", 
+            "thumbnail": "", 
+            "fanart": ""
+        }, 
+        { 
+            "title": "[COLOR khaki]Open ResolveURL Settings[/COLOR]", 
+            "type": "plugin", 
+            "link": "resolveurl_settings", 
+            "thumbnail": "", 
+            "fanart": ""
+        }, 
     ]
 }

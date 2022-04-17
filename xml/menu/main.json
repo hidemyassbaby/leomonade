@@ -7,7 +7,7 @@
             "title": "--- Addon in BETA ---"
         }, 
         {
-            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/movie/moviemain.xml", 
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/movie/moviemain.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "title": "Movies"
@@ -21,14 +21,14 @@
             "title": "[COLOR khaki]Open Addon Settings [/COLOR]", 
             "type": "item", 
             "link": "settings", 
-            "thumbnail": "", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "fanart": ""
         }, 
         { 
             "title": "[COLOR khaki]Open ResolveURL Settings[/COLOR]", 
             "type": "plugin", 
             "link": "resolveurl_settings", 
-            "thumbnail": "", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "fanart": ""
         }, 
     ]

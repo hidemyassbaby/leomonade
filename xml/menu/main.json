@@ -1,0 +1,21 @@
+{
+    "items": [
+        {
+            "link": "https://", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "--- Addon in BETA ---"
+        }, 
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/movie/moviemain.xml", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "Movies"
+        }, 
+        {
+            "link": "resolveurl_auth/", 
+            "type": "unknown", 
+            "title": "[COLORorange]-- Authorise Debrid --[/COLOR]"
+        }
+    ]
+}

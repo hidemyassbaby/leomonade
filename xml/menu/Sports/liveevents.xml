@@ -1,8 +1,26 @@
 <item>
- <title>Milwaukee Brewers Live Stream</title>
+ <title>Testing Direct Links</title>
     <link>
-      <sublink>http://cdn.raino.xyz/hls/stream23.m3u8|Referer=http://bdnewszh.com/</sublink>
+      <sublink>http://cdn.raino.xyz/hls/stream29.m3u8|Referer=http://bdnewszh.com/</sublink>
+      
+    </link>
+  </item>
+
+
+<item>
+ <title>Sport now test stream</title>
+    <link>
+      <sublink>http://cdn.raino.xyz/hls/stream29.m3u8|Referer=http://bdnewszh.com/</sublink>
       
     </link>
   </item>
   
+
+<item>
+ <title>Milwaukee Brewers Live Stream</title>
+    <link>
+      <sublink>http://cdn.raino.xyz/hls/stream29.m3u8|Referer=http://bdnewszh.com/</sublink>
+      
+    </link>
+  </item>
+

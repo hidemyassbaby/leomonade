@@ -4,7 +4,8 @@
             "link": [
                 "https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8"
             ], 
-            "type": "item", 
+            "type": "item",
+            "summary": "BBC One is a British free-to-air television network owned and operated by the BBC, which operates a public television service", 
             "thumbnail": "https://i.postimg.cc/J4LBPh4n/u-Slo-Yi8l-400x400.jpg", 
             "title": "BBC One (UK)"
         }, 
@@ -13,6 +14,7 @@
                 "http://foreign-default.persik.by:82/live/Ch90/index.m3u8"
             ], 
             "type": "item", 
+            "summary": "BBC News is an operational business division of the British Broadcasting Corporation responsible for the gathering and broadcasting of news and current affairs", 
             "thumbnail": "https://i.postimg.cc/LX2VcVmq/image.png", 
             "title": "BBC News (UK)"
         }

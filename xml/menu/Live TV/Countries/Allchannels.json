@@ -1,26 +1,11 @@
 {
     "items": [
-        {
-            "link": [
-                "https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8"
-            ], 
-            "type": "item", 
-            "thumbnail": "https://i.postimg.cc/J4LBPh4n/u-Slo-Yi8l-400x400.jpg", 
-            "title": "BBC One (UK)"
-        }, 
-        {
-            "link": [
-                "http://foreign-default.persik.by:82/live/Ch90/index.m3u8"
-            ], 
-            "type": "item", 
-            "thumbnail": "https://i.postimg.cc/LX2VcVmq/image.png", 
-            "title": "BBC News (UK)"
-        },
-        {
+         {
             "link": [
                 "http://1942468522.rsc.cdn77.org/7mZzltx8DwHb1C4OifYD8A==,1651056048/1942468522/tracks-v1a1/mono.m3u8"
             ], 
-            "type": "item", 
+            "type": "item",
+            "summary": "News Channel", 
             "thumbnail": "https://i.postimg.cc/mDpwYwj9/image.png", 
             "title": "CNN International (USA)"
         }, 
@@ -29,8 +14,37 @@
                 "https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8"
             ], 
             "type": "item", 
+            "summary": "The Fox News Channel, abbreviated FNC, commonly known as Fox News, and stylized in all caps, is an American multinational conservative cable news television channel based in New York City. It is owned by Fox News Media, which itself is owned by the Fox Corporation.", 
             "thumbnail": "https://i.postimg.cc/8C99RMHj/image.png", 
             "title": "Fox News (USA)"
+        },
+        {
+            "link": [
+                "https://6ad949639dde42cebd51578c75055228.mediatailor.us-east-1.amazonaws.com/v1/manifest/6f03f3123e02dbd4771f6f84da21714eef9b7542/AdventureSportsLive/b96e9197-c78e-4d37-995a-0f34c21e616e/0.m3u8|Referer=https://vipotv.com/"
+            ], 
+            "type": "item", 
+            "summary": "Adventure Sports offers the best of action sports and adventure travel entertainment", 
+            "thumbnail": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/e8/c9/1c/e8c91c26-baa1-91e8-ee09-76aef86af1b6/source/512x512bb.jpg", 
+            "title": "ADVENTURE SPORTS TV  (USA)"
+        },
+        {
+            "link": [
+                "https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8"
+            ], 
+            "type": "item",
+            "summary": "BBC One is a British free-to-air television network owned and operated by the BBC, which operates a public television service", 
+            "thumbnail": "https://i.postimg.cc/J4LBPh4n/u-Slo-Yi8l-400x400.jpg", 
+            "title": "BBC One (UK)"
+        }, 
+        {
+            "link": [
+                "http://foreign-default.persik.by:82/live/Ch90/index.m3u8"
+            ], 
+            "type": "item", 
+            "summary": "BBC News is an operational business division of the British Broadcasting Corporation responsible for the gathering and broadcasting of news and current affairs", 
+            "thumbnail": "https://i.postimg.cc/LX2VcVmq/image.png", 
+            "title": "BBC News (UK)"
         }
+        
     ]
 }

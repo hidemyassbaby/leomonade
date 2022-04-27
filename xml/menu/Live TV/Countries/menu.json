@@ -20,13 +20,17 @@
             "type": "dir", 
             "thumbnail": "https://i.postimg.cc/vT1Gbfzy/image.png", 
             "title": "UK TV Channels"
-        },
+        },l
         {
-            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Live%20TV/Countries/nz.json", 
-            "summary": "New Zealand TV Channels", 
-            "type": "dir", 
-            "thumbnail": "https://cdn-icons-png.flaticon.com/512/330/330301.png", 
-            "title": "New Zealand TV Channels"
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "http://i.mjh.nz/nz/kodi-tv.m3u8",
+      "summary": "Freeview is New Zealand's free-to-air television platform. It is operated by a joint venture between the country's major free-to-air broadcasters – government-owned Television New Zealand and Radio New Zealand, government-subsidised Māori Television, and the American-owned Warner Bros. Discovery New Zealand. (Geo Blocked)",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Dm3FR0QWT65YpLZxpT9dUrKFX9wJCEzZKrmEBVJwnepzhxibkzi_2TA&s=10",
+            "title": "[COLOR=white]Freeview NZ[/COLOR]",
+            "type": "dir",
+            "year": "2022"
         }
            
     ]

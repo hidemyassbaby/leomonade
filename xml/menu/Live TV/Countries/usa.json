@@ -15,10 +15,10 @@
             "type": "item", 
             "thumbnail": "https://i.postimg.cc/8C99RMHj/image.png", 
             "title": "Fox News (USA)"
-        }
+        },
         {
             "link": [
-                "https://6ad949639dde42cebd51578c75055228.mediatailor.us-east-1.amazonaws.com/v1/manifest/6f03f3123e02dbd4771f6f84da21714eef9b7542/AdventureSportsLive/b96e9197-c78e-4d37-995a-0f34c21e616e/0.m3u8"
+                "https://6ad949639dde42cebd51578c75055228.mediatailor.us-east-1.amazonaws.com/v1/manifest/6f03f3123e02dbd4771f6f84da21714eef9b7542/AdventureSportsLive/b96e9197-c78e-4d37-995a-0f34c21e616e/0.m3u8|Referer=https://vipotv.com/"
             ], 
             "type": "item", 
             "summary": "Adventure Sports offers the best of action sports and adventure travel entertainment", 

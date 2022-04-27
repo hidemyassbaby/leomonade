@@ -20,6 +20,13 @@
             "type": "dir", 
             "thumbnail": "https://i.postimg.cc/vT1Gbfzy/image.png", 
             "title": "UK TV Channels"
+        },
+        {
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Live%20TV/Countries/nz.json", 
+            "summary": "New Zealand TV Channels", 
+            "type": "dir", 
+            "thumbnail": "https://cdn-icons-png.flaticon.com/512/330/330301.png", 
+            "title": "New Zealand TV Channels"
         }
            
     ]

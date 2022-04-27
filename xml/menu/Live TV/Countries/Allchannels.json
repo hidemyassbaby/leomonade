@@ -44,6 +44,15 @@
             "summary": "BBC News is an operational business division of the British Broadcasting Corporation responsible for the gathering and broadcasting of news and current affairs", 
             "thumbnail": "https://i.postimg.cc/LX2VcVmq/image.png", 
             "title": "BBC News (UK)"
+        },
+        {
+            "link": [
+                "https://i.mjh.nz/nz/tv.9.m3u8"
+            ], 
+            "type": "item",
+            "summary": "TVNZ 1 is the first national television channel owned and operated by the state-owned broadcaster Television New Zealand (Geo Blocked)", 
+            "thumbnail": "https://i.mjh.nz/.images/tv.9.png", 
+            "title": "TVNZ 1 (NZ)"
         }
         
     ]

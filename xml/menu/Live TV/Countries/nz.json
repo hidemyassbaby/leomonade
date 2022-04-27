@@ -1,22 +1,13 @@
 {
     "items": [
         {
-            "link": [
-                "https://i.mjh.nz/nz/tv.9.m3u8"
-            ], 
-            "type": "item",
-            "summary": "TVNZ 1 is the first national television channel owned and operated by the state-owned broadcaster Television New Zealand (Geo Blocked)", 
-            "thumbnail": "https://i.mjh.nz/.images/tv.9.png", 
-            "title": "TVNZ 1 (NZ)"
-        },
-        {
             "content": "season",
             "fanart": "",
             "imdb": "",
             "link": "http://i.mjh.nz/nz/kodi-tv.m3u8",
-      "summary": "TVNZ 1 is the first national television channel owned and operated by the state-owned broadcaster Television New Zealand (Geo Blocked)",
+      "summary": "Freeview is New Zealand's free-to-air television platform. It is operated by a joint venture between the country's major free-to-air broadcasters – government-owned Television New Zealand and Radio New Zealand, government-subsidised Māori Television, and the American-owned Warner Bros. Discovery New Zealand. (Geo Blocked)",
             "thumbnail": "https://i.mjh.nz/.images/tv.9.png",
-            "title": "[COLOR=white]Freeview NZ Test[/COLOR]",
+            "title": "[COLOR=white]Freeview NZ[/COLOR]",
             "type": "dir",
             "year": "2022"
         }

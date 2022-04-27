@@ -5,18 +5,18 @@
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "title": "--- Addon in BETA ---"
-        }, 
-        {
-            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/movie/moviemain.xml", 
-            "type": "dir", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "Movies"
         },
         {
             "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Sports/liveevents.xml", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "title": "Live Sports"
+        }, 
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Live%20TV/Countries/menu.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "Live TV Channels"
         },
         {
             "link": "resolveurl_auth", 

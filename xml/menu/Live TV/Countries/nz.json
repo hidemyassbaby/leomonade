@@ -8,6 +8,15 @@
             "summary": "TVNZ 1 is the first national television channel owned and operated by the state-owned broadcaster Television New Zealand (Geo Blocked)", 
             "thumbnail": "https://i.mjh.nz/.images/tv.9.png", 
             "title": "TVNZ 1 (NZ)"
+        },
+        {
+            "link": [
+                "http://i.mjh.nz/nz/kodi-tv.m3u8"
+            ], 
+            "type": "item",
+            "summary": "TVNZ 1 is the first national television channel owned and operated by the state-owned broadcaster Television New Zealand (Geo Blocked)", 
+            "thumbnail": "https://i.mjh.nz/.images/tv.9.png", 
+            "title": "Freeview NZ Test"
         }
     ]
 }

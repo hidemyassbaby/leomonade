@@ -2,10 +2,10 @@
     "items": [
        {
             "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Live%20TV/Countries/Allchannels.json", 
-            "summary": "All Channels", 
+            "summary": "All TV Channels in one list", 
             "type": "dir", 
             "thumbnail": "https://i.postimg.cc/VLPbTf1J/image.png", 
-            "title": "All TV Channels in one list"
+            "title": "All Channels"
         },
         {
             "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Live%20TV/Countries/usa.json", 

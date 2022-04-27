@@ -1,34 +1,11 @@
 {
     "items": [
         {
-            "link": "https://", 
+            "link": "file://shared lists/main.xml", 
+            "summary": "USA TV Channel's", 
             "type": "dir", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "--- Addon in BETA ---"
-        }, 
-        {
-            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/movie/moviemain.xml", 
-            "type": "dir", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "Movies"
-        }, 
-        {
-            "link": "resolveurl_auth", 
-            "type": "unknown", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "[COLORorange]-- Authorise Debrid --[/COLOR]"
-        }, 
-        {
-            "link": "settings", 
-            "type": "unknown", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "[COLORorange]Open Addon Settings[/COLOR]"
-        }, 
-        {
-            "link": "resolveurl_settings", 
-            "type": "unknown", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "[COLORorange]Open ResolveURL Settings[/COLOR]"
+            "thumbnail": "https://i.postimg.cc/pTQB7vPD/image.png", 
+            "title": "USA TV Channel's"
         }
     ]
 }

@@ -6,6 +6,14 @@
             "type": "dir", 
             "thumbnail": "https://i.postimg.cc/pTQB7vPD/image.png", 
             "title": "USA TV Channels"
+        },
+        {
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Live%20TV/Countries/uk.json", 
+            "summary": "UK TV Channels", 
+            "type": "dir", 
+            "thumbnail": "https://i.postimg.cc/vT1Gbfzy/image.png", 
+            "title": "UK TV Channels"
         }
+           
     ]
 }

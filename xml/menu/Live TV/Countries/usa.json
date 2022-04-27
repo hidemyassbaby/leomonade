@@ -4,7 +4,8 @@
             "link": [
                 "http://1942468522.rsc.cdn77.org/7mZzltx8DwHb1C4OifYD8A==,1651056048/1942468522/tracks-v1a1/mono.m3u8"
             ], 
-            "type": "item", 
+            "type": "item",
+            "summary": "News Channel", 
             "thumbnail": "https://i.postimg.cc/mDpwYwj9/image.png", 
             "title": "CNN International (USA)"
         }, 
@@ -13,6 +14,7 @@
                 "https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8"
             ], 
             "type": "item", 
+            "summary": "The Fox News Channel, abbreviated FNC, commonly known as Fox News, and stylized in all caps, is an American multinational conservative cable news television channel based in New York City. It is owned by Fox News Media, which itself is owned by the Fox Corporation.", 
             "thumbnail": "https://i.postimg.cc/8C99RMHj/image.png", 
             "title": "Fox News (USA)"
         },
@@ -27,3 +29,4 @@
         } 
     ]
 }
+ 

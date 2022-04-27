@@ -1,12 +1,12 @@
 {
     "items": [
         {
-            "link": [
+            "dir": [
                 "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Live%20TV/Countries/usa.json"
             ], 
             "type": "item", 
             "thumbnail": "https://i.postimg.cc/pTQB7vPD/image.png", 
-            "title": "USA TV Channels."
+            "title": "USA TV Channels"
         }
     ]
 }

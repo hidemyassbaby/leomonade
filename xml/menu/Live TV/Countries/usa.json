@@ -7,6 +7,15 @@
             "type": "item", 
             "thumbnail": "https://i.postimg.cc/mDpwYwj9/image.png", 
             "title": "CNN International (USA)"
-        }
+        },
+        {
+            "link": [
+                "https://fox-foxnewsnow-samsungus.amagi.tv/playlistwebvtt.m3u8"
+            ], 
+            "type": "item", 
+            "thumbnail": "https://i.postimg.cc/8C99RMHj/image.png", 
+            "title": "Fox News"
+        },
+
     ]
 }

@@ -1,1 +1,11 @@
-
+{
+    "items": [
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Live%20TV/Countries/usa.xml", 
+            "type": "dir", 
+            "thumbnail": "https://i.postimg.cc/pTQB7vPD/image.png", 
+            "title": "USA"
+        },
+      
+    ]
+}

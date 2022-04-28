@@ -169,6 +169,44 @@
             "title": "[COLOR=white]Sydney[/COLOR]",
             "type": "dir",
             "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/Stirr/all.m3u8",
+            "summary": "Stirr is an American ad-supported video streaming service owned by Sinclair Broadcast Group. The streaming service is available on the web and via apps for iOS, Android devices and various streaming TV devices, including Amazon Fire TV, Roku, Apple TV, Chromecast and Android TV. Stirr's slogan is, the new free TV.",
+            "thumbnail": "https://1.bp.blogspot.com/-8_37eUwLxBQ/X4j5lmPqfZI/AAAAAAAAGUI/KUwXn6_O_gEpXx4wE8XZb_Lq21W4tbNMQCLcBGAsYHQ/w1200-h630-p-k-no-nu/blog-thumb.jpg",
+            "title": "[COLOR=red][B]Stirr[/B][/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/Plex/all.m3u8",
+            "summary": "Enjoy 80+ live TV channels with Plex",
+            "thumbnail": "https://i.postimg.cc/SN9Zfhzr/image.png",
+            "title": "[COLOR=red][B]Plex Live TV[/B][/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/PlutoTV/all.m3u8",
+            "summary": "Pluto TV is an internet television service owned and operated by Paramount Streaming, a division of Paramount Global",
+            "thumbnail": "https://i.postimg.cc/65SXytxf/image.png",
+            "title": "[COLOR red][B]PlutoTV[/COLOR][/B]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "type": "dir",
+            "title": "[COLOR red][B]Samsung TV Plus[/COLOR][/B]",
+            "samsung_tv": "regions"
         }
         
     ]

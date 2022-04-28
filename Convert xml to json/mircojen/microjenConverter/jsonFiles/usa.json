@@ -1,20 +1,3 @@
 {
-    "items": [
-        {
-            "link": [
-                "http://1942468522.rsc.cdn77.org/7mZzltx8DwHb1C4OifYD8A==,1651056048/1942468522/tracks-v1a1/mono.m3u8"
-            ], 
-            "type": "item", 
-            "thumbnail": "https://i.postimg.cc/mDpwYwj9/image.png", 
-            "title": "CNN International (USA)"
-        }, 
-        {
-            "link": [
-                "https://fox-foxnewsnow-samsungus.amagi.tv/playlistwebvtt.m3u8"
-            ], 
-            "type": "item", 
-            "thumbnail": "https://i.postimg.cc/8C99RMHj/image.png", 
-            "title": "Fox News (USA)"
-        }
-    ]
+    "items": []
 }

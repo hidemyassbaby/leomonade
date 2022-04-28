@@ -1,11 +1,64 @@
 {
     "items": [
         {
-            "link": "file://shared lists/main.xml", 
-            "summary": "USA TV Channel's", 
+            "link": "file://basics.json", 
             "type": "dir", 
-            "thumbnail": "https://i.postimg.cc/pTQB7vPD/image.png", 
-            "title": "USA TV Channel's"
+            "title": "Various Methods"
+        }, 
+        {
+            "link": "file://formats/main.xml", 
+            "type": "dir", 
+            "title": "Formats"
+        }, 
+        {
+            "link": "file://shared lists/main.xml", 
+            "type": "dir", 
+            "title": "Shared Lists"
+        }, 
+        {
+            "link": "file://formats/main.json", 
+            "type": "dir", 
+            "title": "Json example"
+        }, 
+        {
+            "link": "youtube/J1wVVPZ2DGI", 
+            "type": "item", 
+            "title": "Dabs k19 help Create Custom RSS feed for kodi 19"
+        }, 
+        {
+            "link": "file://shared lists/youtube.json", 
+            "type": "dir", 
+            "title": "Youtube example"
+        }, 
+        {
+            "content": "movie", 
+            "summary": "When a man purchases a collection of seven paintings to hang in his wealthy estate, he has no idea what horrors he has unleashed for himself and his family.", 
+            "type": "item", 
+            "thumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l3CCtoklH4uPn5zFgJZhastTxZ9.jpg", 
+            "title": "art of the dead"
+        }, 
+        {
+            "content": "episode", 
+            "episode": "1", 
+            "title": "1x1: Filmed Before a Live Studio Audience", 
+            "fanart": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg", 
+            "season": "1", 
+            "type": "item", 
+            "thumbnail": "https://www.themoviedb.org/t/p/original/oNCzeCXFanVEWNpzRzyffhLLfZs.jpg", 
+            "summary": "Wanda and Vision struggle to conceal their powers during dinner with Vision\u2019s boss and his wife."
+        }, 
+        {
+            "content": "movie", 
+            "link": [
+                "https://1fichier.com/?sj0fh64txn0hes2ion79", 
+                "http://rapidgator.net/file/cfd54f87937c4d7861a2b80469903563/X-Men.2000.1080p.BluRay.x265.HEVC.10bit.AAC.5.1.Tigole-QxR.mkv.html", 
+                "http://ignore"
+            ], 
+            "title": "[COLORorange]X-MEN (2000)[/COLOR]", 
+            "imdb": "tt0120903", 
+            "year": "2000", 
+            "type": "item", 
+            "thumbnail": "https://image.tmdb.org/t/p/original/ugKiyA4HMd16m3mxXVDeNlQV7xN.jpg"
         }
     ]
 }

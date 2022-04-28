@@ -1,0 +1,28 @@
+<item>
+ <title>Testing Direct Links</title>
+    <link>
+      <sublink>http://cdn.raino.xyz/hls/stream29.m3u8|Referer=http://bdnewszh.com/</sublink>
+      
+    </link>
+  </item>
+
+
+<item>
+ <title>Sport now test stream</title>
+    <link>
+      <sublink>http://cdn.raino.xyz/hls/stream29.m3u8|Referer=http://bdnewszh.com/</sublink>
+      
+    </link>
+  </item>
+  
+
+<item>
+ <title>BT Sport 1 (UK)</title>
+ <thumbnail>https://ia800803.us.archive.org/13/items/BtSport1/bt%20sport%201.png</thumbnail>
+    <link>
+      <sublink>https://uload.ru.com/cdn/premium31/chunks.m3u8|Referer=https://player.licenses4.me/</sublink>
+      <sublink>https://uload.ru.com/cdn/premium31/chunks.m3u8|Referer=https://player.licenses4.me/</sublink>
+      
+    </link>
+  </item>
+

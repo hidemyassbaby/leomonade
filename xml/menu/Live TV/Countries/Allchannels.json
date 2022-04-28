@@ -81,6 +81,94 @@
             "summary": "TVNZ 1 is the first national television channel owned and operated by the state-owned broadcaster Television New Zealand (Geo Blocked)", 
             "thumbnail": "https://i.mjh.nz/.images/tv.9.png", 
             "title": "TVNZ 1 (NZ)"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/au/Adelaide/kodi-tv.m3u8",
+            "summary": "Freeview is the brand name of the digital terrestrial television platform in Australia intended to bring all of free-to-air broadcasters onto a consistent marketing platform, to compete against subscription television, in particular Foxtel (Geo Blocked)",
+            "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png",
+            "title": "[COLOR=white]Adelaide[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/au/Brisbane/kodi-tv.m3u8",
+            "summary": "Freeview is the brand name of the digital terrestrial television platform in Australia intended to bring all of free-to-air broadcasters onto a consistent marketing platform, to compete against subscription television, in particular Foxtel (Geo Blocked)",
+            "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png",
+            "title": "[COLOR=white]Brisbane[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/au/Canberra/kodi-tv.m3u8",
+            "summary": "Freeview is the brand name of the digital terrestrial television platform in Australia intended to bring all of free-to-air broadcasters onto a consistent marketing platform, to compete against subscription television, in particular Foxtel (Geo Blocked)",
+            "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png",
+            "title": "[COLOR=white]Canberra[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/au/Darwin/kodi-tv.m3u8",
+            "summary": "Freeview is the brand name of the digital terrestrial television platform in Australia intended to bring all of free-to-air broadcasters onto a consistent marketing platform, to compete against subscription television, in particular Foxtel (Geo Blocked)",
+            "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png",
+            "title": "[COLOR=white]Darwin[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/au/Hobart/kodi-tv.m3u8",
+            "summary": "Freeview is the brand name of the digital terrestrial television platform in Australia intended to bring all of free-to-air broadcasters onto a consistent marketing platform, to compete against subscription television, in particular Foxtel (Geo Blocked)",
+            "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png",
+            "title": "[COLOR=white]Hobart[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/au/Melbourne/kodi-tv.m3u8",
+            "summary": "Freeview is the brand name of the digital terrestrial television platform in Australia intended to bring all of free-to-air broadcasters onto a consistent marketing platform, to compete against subscription television, in particular Foxtel (Geo Blocked)",
+            "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png",
+            "title": "[COLOR=white]Melbourne[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/au/Perth/kodi-tv.m3u8",
+            "summary": "Freeview is the brand name of the digital terrestrial television platform in Australia intended to bring all of free-to-air broadcasters onto a consistent marketing platform, to compete against subscription television, in particular Foxtel (Geo Blocked)",
+            "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png",
+            "title": "[COLOR=white]Perth[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/au/Sydney/kodi-tv.m3u8",
+            "summary": "Freeview is the brand name of the digital terrestrial television platform in Australia intended to bring all of free-to-air broadcasters onto a consistent marketing platform, to compete against subscription television, in particular Foxtel (Geo Blocked)",
+            "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png",
+            "title": "[COLOR=white]Sydney[/COLOR]",
+            "type": "dir",
+            "year": "2022"
         }
         
     ]

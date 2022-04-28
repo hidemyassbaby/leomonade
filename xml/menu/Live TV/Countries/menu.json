@@ -38,7 +38,14 @@
             "title": "[COLOR=white]Freeview NZ[/COLOR]",
             "type": "dir",
             "year": "2022"
-        }
+        },
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Live%20TV/Countries/australia%20freeview.json", 
+            "summary": "Australia TV Channels", 
+            "type": "dir", 
+            "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png", 
+            "title": "Australia TV Channels"
+        },
            
     ]
 }

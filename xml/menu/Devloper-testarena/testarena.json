@@ -11,12 +11,12 @@
         },
         {
             "link": [
-                "https://uload.ru.com/cdn/premium38/chunks.m3u8|Referer=https://player.licenses4.me/"
+                "https://neunlds687oc.akamaized.net/nlds/skysportsfanpass/drm_sky1/as/live/nlncp/drm_sky1_hd_pc.mpd?h=2f3f032bcbe8894428a24a8fe55515a2.1651137395752&hdnea=exp=1651137455~acl=/*~hmac=AC30729154E2C068F2D67AD64838C1205B4D6E11241CE63766A6F369EC711AF4&nltid=skyfanpass&nltdt=0&uid=654723|Referer=https://www.skysportnow.co.nz/"
             ], 
             "type": "item",
-            "summary": "Sky Sports Main Event is the channel dedicated to the biggest live events from across our Sky Sports portfolio", 
+            "summary": "Sky Sports 1 NZ", 
             "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", 
-            "title": "Sky Sports main event (UK)"
+            "title": "Sky Sports 1 NZ - Test"
         },
         {
             "link": [

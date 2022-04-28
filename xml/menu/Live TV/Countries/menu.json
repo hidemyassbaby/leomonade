@@ -33,7 +33,7 @@
             "fanart": "",
             "imdb": "",
             "link": "http://i.mjh.nz/nz/kodi-tv.m3u8",
-      "summary": "Freeview is New Zealand's free-to-air television platform. It is operated by a joint venture between the country's major free-to-air broadcasters – government-owned Television New Zealand and Radio New Zealand, government-subsidised Māori Television, and the American-owned Warner Bros. Discovery New Zealand. (Geo Blocked)",
+            "summary": "Freeview is New Zealand's free-to-air television platform. It is operated by a joint venture between the country's major free-to-air broadcasters – government-owned Television New Zealand and Radio New Zealand, government-subsidised Māori Television, and the American-owned Warner Bros. Discovery New Zealand. (Geo Blocked)",
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Dm3FR0QWT65YpLZxpT9dUrKFX9wJCEzZKrmEBVJwnepzhxibkzi_2TA&s=10",
             "title": "[COLOR=white]Freeview NZ[/COLOR]",
             "type": "dir",
@@ -45,6 +45,28 @@
             "type": "dir", 
             "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png", 
             "title": "Australia TV Channels"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/Stirr/all.m3u8",
+            "summary": "Stirr is an American ad-supported video streaming service owned by Sinclair Broadcast Group. The streaming service is available on the web and via apps for iOS, Android devices and various streaming TV devices, including Amazon Fire TV, Roku, Apple TV, Chromecast and Android TV. Stirr's slogan is, the new free TV.",
+            "thumbnail": "https://1.bp.blogspot.com/-8_37eUwLxBQ/X4j5lmPqfZI/AAAAAAAAGUI/KUwXn6_O_gEpXx4wE8XZb_Lq21W4tbNMQCLcBGAsYHQ/w1200-h630-p-k-no-nu/blog-thumb.jpg",
+            "title": "[COLOR=red]Stirr[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://i.mjh.nz/Plex/all.m3u8",
+            "summary": "Enjoy 80+ live TV channels with Plex",
+            "thumbnail": "https://i.postimg.cc/SN9Zfhzr/image.png",
+            "title": "[COLOR=red]Plex Live TV[/COLOR]",
+            "type": "dir",
+            "year": "2022"
         },
         {
             "type": "dir",

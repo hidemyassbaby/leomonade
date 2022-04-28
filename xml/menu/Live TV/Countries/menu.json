@@ -45,6 +45,16 @@
             "type": "dir", 
             "thumbnail": "https://i.postimg.cc/P56YHnQn/image.png", 
             "title": "Australia TV Channels"
+        },
+        {
+            "type": "dir",
+            "title": "[COLOR red][B]PlutoTV[/COLOR][/B]",
+            "plutotv": "channels"
+        },
+        {
+            "type": "dir",
+            "title": "[COLOR red][B]Samsung TV Plus[/COLOR][/B]",
+            "samsung_tv": "regions"
         }
            
     ]

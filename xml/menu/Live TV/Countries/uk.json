@@ -1,5 +1,12 @@
 {
     "items": [
+         {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Live%20TV/Countries/Allchannels.json", 
+            "summary": "UK Sport Channels", 
+            "type": "dir", 
+            "thumbnail": "https://i.postimg.cc/bJXsYT2J/image.png", 
+            "title": "-- UK Sports --"
+        },
         {
             "link": [
                 "https://uksono1-samsunguk.amagi.tv/playlist480p.m3u8"

@@ -1,0 +1,33 @@
+{
+    "items": [ 
+        {
+            "link": [
+                "https://uload.ru.com/cdn/premium31/chunks.m3u8|Referer=https://player.licenses4.me/", 
+                "https://uload.ru.com/cdn/premium31/chunks.m3u8|Referer=https://player.licenses4.me/"
+            ], 
+            "type": "item",
+            "summary": "BT Sport is a group of pay television sports channels provided by BT Consumer; a division of BT Group in the United Kingdom and Ireland",
+            "thumbnail": "https://ia800803.us.archive.org/13/items/BtSport1/bt%20sport%201.png", 
+            "title": "BT Sport 1 (UK)"
+        },
+        {
+            "link": [
+                "https://uload.ru.com/cdn/premium38/chunks.m3u8|Referer=https://player.licenses4.me/"
+            ], 
+            "type": "item",
+            "summary": "Sky Sports Main Event is the channel dedicated to the biggest live events from across our Sky Sports portfolio", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", 
+            "title": "Sky Sports main event (UK)"
+        },
+        {
+            "link": [
+                "https://uload.ru.com/cdn/premium35/chunks.m3u8|Referer=https://player.licenses4.me/"
+            ], 
+            "type": "item",
+            "summary": "Sky Sports Footbal is the channel dedicated to Football", 
+            "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLT4nIC5koOhfeMhk-iVW56hOtZKaXtS8YY3WXoGxw=s900-c-k-c0x00ffffff-no-rj", 
+            "title": "Sky Sports Football (UK)"
+        }
+    ]
+}
+

@@ -19,22 +19,11 @@
             "title": "Live TV & Sports"
         },
         {
-            "link": "resolveurl_auth", 
-            "type": "Plugin", 
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/settingmenu.json", 
+            "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "[COLORorange]-- Authorise Debrid --[/COLOR]"
-        }, 
-        {
-            "link": "Settings", 
-            "type": "item", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "[COLORorange]Open Addon Settings[/COLOR]"
-        }, 
-        {
-            "link": "resolveurl_settings", 
-            "type": "plugin", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "[COLORorange]Open ResolveURL Settings[/COLOR]"
+            "title": "Settings"
         }
+        
     ]
 }

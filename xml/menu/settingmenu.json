@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "link": "resolveurl_auth", 
+            "type": "Plugin", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "[COLORorange]-- Authorise Debrid --[/COLOR]"
+        }, 
+        {
+            "link": "Settings", 
+            "type": "item", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "[COLORorange]Open Addon Settings[/COLOR]"
+        }, 
+        {
+            "link": "resolveurl_settings", 
+            "type": "plugin", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "[COLORorange]Open ResolveURL Settings[/COLOR]"
+        },
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Devloper-testarena/testarena.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "Developer | Test Area"
+        }
+    ]
+}

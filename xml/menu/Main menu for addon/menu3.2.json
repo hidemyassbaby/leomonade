@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "link": "https://", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "--- Addon in BETA ---"
+        },
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Sports/liveevents.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "Live Sports"
+        }, 
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Live%20TV/Countries/menu.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "Live TV & Sports"
+        },
+        {
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/settingmenu.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "Settings"
+        }
+        
+    ]
+}

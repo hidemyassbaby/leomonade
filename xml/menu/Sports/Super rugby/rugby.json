@@ -11,11 +11,12 @@
         },
         {
             "link": [
+                "http://1vs.rprov.info:8080/robby/robbycome123/103384.ts(Sky Sport 1 NZ)",
                 "https://uload.ru.com/cdn/premium38/chunks.m3u8|Referer=https://player.licenses4.me/(Main Event UK Link 1)",
-                "http://1vs.rprov.info:8080/robby/robbycome123/30.ts(Main Event UK HD Link 2)"
+                "http://1vs.rprov.info:8080/robby/robbycome123/30.ts(Main Event UK HD Link 2)",
                 "http://links.iptvlogin.com/play/2PD_5ogxosRlPbn4COebrtbExTYxjvBryo83HPnwdu8/ts(Super Sport Rugby Link 1)",
                 "http://1vs.rprov.info:8080/robby/robbycome123/53611.ts(Super Sport Rugby Link 2)",
-                "http://links.iptvlogin.com:80/play/2PD_5ogxosRlPbn4COebrhVYFtF-25Lf75-MNR7q7I8/ts(Sky Sport Mix Link 1)"
+                "http://links.iptvlogin.com:80/play/2PD_5ogxosRlPbn4COebrhVYFtF-25Lf75-MNR7q7I8/ts(Sky Sport Mix Link 1)",
                 "http://1vs.rprov.info:8080/robby/robbycome123/31.ts(Sky Sport Mix Link 2 HD)"
             ], 
             "type": "item",
@@ -26,10 +27,10 @@
         {
             "link": [
                 "https://uload.ru.com/cdn/premium38/chunks.m3u8|Referer=https://player.licenses4.me/(Main Event UK Link 1)",
-                "http://1vs.rprov.info:8080/robby/robbycome123/30.ts(Main Event UK HD Link 2)"
+                "http://1vs.rprov.info:8080/robby/robbycome123/30.ts(Main Event UK HD Link 2)",
                 "http://links.iptvlogin.com/play/2PD_5ogxosRlPbn4COebrtbExTYxjvBryo83HPnwdu8/ts(Super Sport Rugby Link 1)",
                 "http://1vs.rprov.info:8080/robby/robbycome123/53611.ts(Super Sport Rugby Link 2)",
-                "http://links.iptvlogin.com:80/play/2PD_5ogxosRlPbn4COebrhVYFtF-25Lf75-MNR7q7I8/ts(Sky Sport Mix Link 1)"
+                "http://links.iptvlogin.com:80/play/2PD_5ogxosRlPbn4COebrhVYFtF-25Lf75-MNR7q7I8/ts(Sky Sport Mix Link 1)",  
                 "http://1vs.rprov.info:8080/robby/robbycome123/31.ts(Sky Sport Mix Link 2 HD)"
             ], 
             "type": "item",

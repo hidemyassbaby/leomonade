@@ -17,5 +17,25 @@
             "title": "[B][COLORdeepskyblue]Movie Genre Test List[/COLOR][/B]",
             "link": "tmdb/genre/movies/28"
         }
+        {
+            "type": "dir",
+            "title": "[B][COLORkhaki]The Book of Boba Fett[/COLOR][/B]",
+            "link": "tmdb/tvshow/115036"
+        },        
+        {
+            "type": "dir",
+            "title": "[B][COLORkhaki]TMDB Popular[/COLOR][/B]",
+            "link": "tmdb/tvshow_list/popular"
+        },
+        {
+            "link": "tmdb/company/movies/7", 
+            "type": "dir", 
+            "title": "DreamWorks"
+        },
+        {
+            "link": "tmdb/company/movies/2", 
+            "type": "dir", 
+            "title": "Disney"
+        }
     ]
 }

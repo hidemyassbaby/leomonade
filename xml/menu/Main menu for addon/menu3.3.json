@@ -7,6 +7,12 @@
             "title": "[COLOR=red][B]Addon Version 3.3[/B][/COLOR]"
         },
         {
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Movies/moviemain.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "Movies"
+        },
+        {
             "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Sports/liveevents.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 

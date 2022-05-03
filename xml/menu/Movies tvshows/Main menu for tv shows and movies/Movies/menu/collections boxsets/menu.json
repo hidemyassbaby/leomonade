@@ -7,6 +7,14 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg", 
             "summary": "Harry Potter Movie Colletion",
             "title": "[B][COLORredi]Harry Potter Collection[/B][/COLOR]"
+        },
+        {
+            "fanart": "https://i.postimg.cc/Qtsnzq4q/Wallpaper-Dog-20493433.jpg", 
+            "link": "tmdb/collection/10", 
+            "type": "dir", 
+            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tdQzRSk4PXX6hzjLcQWHafYtZTI.jpg", 
+            "summary": "Star Wars Movie Collection",
+            "title": "[B][COLORredi]Star Wars Collection[/B][/COLOR]"
         }
     ]
 }

@@ -2,13 +2,21 @@
     "items": [ 
         {
             "link": [
-                "https://uload.ru.com/cdn/premium31/chunks.m3u8|Referer=https://player.licenses4.me/", 
                 "https://uload.ru.com/cdn/premium31/chunks.m3u8|Referer=https://player.licenses4.me/"
             ], 
             "type": "item",
             "summary": "BT Sport is a group of pay television sports channels provided by BT Consumer; a division of BT Group in the United Kingdom and Ireland",
             "thumbnail": "https://ia800803.us.archive.org/13/items/BtSport1/bt%20sport%201.png", 
             "title": "BT Sport 1 (UK)"
+        },
+        {
+            "link": [
+                "https://uload.ru.com/cdn/premium32/chunks.m3u8|Referer=https://player.licences4.me/"
+            ], 
+            "type": "item",
+            "summary": "BT Sport is a group of pay television sports channels provided by BT Consumer; a division of BT Group in the United Kingdom and Ireland",
+            "thumbnail": "https://ia601901.us.archive.org/6/items/BTSport2/BT-Sport-2.png", 
+            "title": "BT Sport 2 (UK)"
         },
         {
             "link": [
@@ -21,13 +29,22 @@
         },
         {
             "link": [
+                "https://g3.fctelerium.com:999/hls/skyscric-9884.ts|Referer=https://noob4cast.com/"
+            ], 
+            "type": "item",
+            "summary": "Sky Sports Cricket is the channel dedicated to Cricket", 
+            "thumbnail": "https://i.postimg.cc/q7ww40YC/image.png", 
+            "title": "Sky Sports Cricket (UK)"
+        },
+        {
+            "link": [
                 "https://uload.ru.com/cdn/premium35/chunks.m3u8|Referer=https://player.licenses4.me/"
             ], 
             "type": "item",
             "summary": "Sky Sports Footbal is the channel dedicated to Football", 
             "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLT4nIC5koOhfeMhk-iVW56hOtZKaXtS8YY3WXoGxw=s900-c-k-c0x00ffffff-no-rj", 
             "title": "Sky Sports Football (UK)"
-        },
+        }
         {
             "link": [
                 "https://uload.ru.com/cdn/premium130/chunks.m3u8|Referer=https://player.licenses4.me/"
@@ -36,6 +53,15 @@
             "summary": "Sky Sports Premier League is the channel dedicated to Premier League", 
             "thumbnail": "https://i.postimg.cc/qBtXBkDD/image.png", 
             "title": "Sky Sports Premier League (UK)"
+        },
+        {
+            "link": [
+                "https://uload.ru.com/cdn/premium60/chunks.m3u8%7CReferer=https://player.licenses4.me/"
+            ], 
+            "type": "item",
+            "summary": "Sky Sports F1 is the channel dedicated to F1", 
+            "thumbnail": "https://i.postimg.cc/hvLbZB9j/image.jpg", 
+            "title": "Sky Sports F1 (UK)"
         }
     ]
 }

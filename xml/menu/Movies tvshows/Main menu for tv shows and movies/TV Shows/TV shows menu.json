@@ -1,27 +1,31 @@
 {
     "items": [
         {
-            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/Studio.json", 
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/TV%20Shows/TV%20shows/In%20Progress/menu.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "summary": "Returning / New Seasons of TV Shows",
             "title": "[B][COLORredi]In Progress - New Seasons[/COLOR][/B]"
         },
     	{
-            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/Studio.json", 
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/TV%20Shows/TV%20shows/Latest%20TV%20Shows/menu.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "summary": "Latest TV Shows",
             "title": "[B][COLORredi]Latest TV Shows[/COLOR][/B]"
         },
         {
-            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/Studio.json", 
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/TV%20Shows/TV%20shows/Returning%20TV%20Shows/menu.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "summary": "TV Shows that have been renewed for another season.",
             "title": "[B][COLORredi]Returning TV Shows[/COLOR][/B]"
         },
         {
-            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/Studio.json", 
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/TV%20Shows/TV%20shows/Kid%20TV%20Shows/menu.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+             "summary": "Kid TV Shows",
             "title": "[B][COLORredi]Kid TV Shows[/COLOR][/B]"
         }
     ]

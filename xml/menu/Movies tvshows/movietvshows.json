@@ -5,50 +5,6 @@
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "title": "[B][COLORredi]Movies | TV Shows Under Construction[/COLOR][/B]"
-        },
-        {
-            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Movies/genre_movies.json", 
-            "type": "dir", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "Genre"
-        },
-        {
-            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Movies/production.json", 
-            "type": "dir", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "title": "Production"
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLORdeepskyblue]Movie Genre Test List[/COLOR][/B]",
-            "link": "tmdb/genre/movies/28"
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLORkhaki]The Book of Boba Fett[/COLOR][/B]",
-            "link": "tmdb/tvshow/115036"
-        },
-         {
-            "type": "dir",
-            "title": "[B][COLORkhaki]Grey's Anatomy [/COLOR][/B]",
-            "tumbnail": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zPIug5giU8oug6Xes5K1sTfQJxY.jpg",
-            "link": "tmdb/tvshow/1416"
-        },
-             
-        {
-            "type": "dir",
-            "title": "[B][COLORkhaki]TMDB Popular[/COLOR][/B]",
-            "link": "tmdb/tvshow_list/popular"
-        },
-        {
-            "link": "tmdb/company/movies/7", 
-            "type": "dir", 
-            "title": "DreamWorks"
-        },
-        {
-            "link": "tmdb/company/movies/2", 
-            "type": "dir", 
-            "title": "Disney"
         }
     ]
 }

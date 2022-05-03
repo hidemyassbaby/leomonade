@@ -15,6 +15,39 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/tdQzRSk4PXX6hzjLcQWHafYtZTI.jpg", 
             "summary": "Star Wars Movie Collection",
             "title": "[B][COLORredi]Star Wars Collection[/B][/COLOR]"
+        },
+        {
+            "fanart": "https://i.postimg.cc/Qtsnzq4q/Wallpaper-Dog-20493433.jpg", 
+            "link": "tmdb/collection/119", 
+            "type": "dir", 
+            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nSNle6UJNNuEbglNvXt67m1a1Yn.jpg", 
+            "summary": "The Lord of the Rings Movie Collection",
+            "title": "[B][COLORredi]The Lord of the Rings Collection[/B][/COLOR]"
+        },
+        {
+            "fanart": "https://i.postimg.cc/Qtsnzq4q/Wallpaper-Dog-20493433.jpg", 
+            "link": "tmdb/collection/531241", 
+            "type": "dir", 
+            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nogV4th2P5QWYvQIMiWHj4CFLU9.jpg", 
+            "summary": "A superhero film series based on the Marvel character Spider-Man, portrayed by Tom Holland. The series is centered on Peter Parker, an academically gifted but socially inept high school student who fights crime as Spider-Man, a member of The Avengers.",
+            "title": "[B][COLORredi]Spider-Man (Avengers) Collection[/B][/COLOR]"
+        },
+        {
+            "fanart": "https://i.postimg.cc/Qtsnzq4q/Wallpaper-Dog-20493433.jpg", 
+            "link": "tmdb/collection/9485", 
+            "type": "dir", 
+            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nVMyxXziZVZXHP3yW26SRdAB9te.jpg", 
+            "summary": "An action film series centered on illegal street racing and heists.",
+            "title": "[B][COLORredi]The Fast and the Furious Collection[/B][/COLOR]"
+        },
+        {
+            "fanart": "https://i.postimg.cc/Qtsnzq4q/Wallpaper-Dog-20493433.jpg", 
+            "link": "tmdb/collection/8936", 
+            "type": "dir", 
+            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/33oGv82H0fvSr8IvAbiamgVvNU5.jpg", 
+            "summary": "Bridget Jones is a franchise based on the fictional columnist with the same name. English writer Helen Fielding started her Bridget Jones’s Diary column in The Independent in 1995, chronicling the life of Bridget Jones as a thirtysomething single woman in London as she tries to make sense of life and love with the help of a surrogate «urban family» of friends in the 1990s.",
+            "title": "[B][COLORredi]Bridget Jones Collection[/B][/COLOR]"
         }
+        
     ]
 }

@@ -41,16 +41,16 @@
         {
             "link": "tmdb/company/movies/2", 
             "type": "dir", 
-            "title": "Disney"
+            "title": "Disney"                  
         },
         {   
-        "type": "item", 
-        "title": "[B][COLORlightblue]The Ice Age Adventures of Buck Wild[/COLOR][/B]", 
-        "link": "search",  
-        "year": "2022", 
-        "content": "movie", 
-        "imdb_id": "tt13634480" , 
-        "summary": "Scraper Test" 
+            "type": "item", 
+            "title": "[B][COLORlightblue]The Ice Age Adventures of Buck Wild[/COLOR][/B]", 
+            "link": "search",  
+            "year": "2022", 
+            "content": "movie", 
+            "imdb_id": "tt13634480" , 
+            "summary": "Scraper Test" 
         }
     ]
 }

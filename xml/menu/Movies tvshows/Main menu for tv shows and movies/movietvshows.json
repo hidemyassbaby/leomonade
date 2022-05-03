@@ -7,6 +7,12 @@
             "title": "[B][COLORredi]Movies | TV Shows Under Construction[/COLOR][/B]"
         },
         {
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Movies/genre_movies.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "[B][COLORred]** Real Debrid Required unless stated **[/COLOR][/B]"
+        },
+        {
             "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/Movie%20Main%20menu.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 

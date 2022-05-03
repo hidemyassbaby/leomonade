@@ -3,22 +3,33 @@
     	{
             "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/Studio.json", 
             "type": "dir", 
-            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png",
+            "summary": "Movies by Studio's", 
             "title": "[B][COLORredi]Movie - Studio's[/COLOR][/B]"
+        },
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/collections%20boxsets/menu.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png",
+            "summary": "Movie Boxsets - Complete Sets of Movies in one place",
+            "title": "[B][COLORredi]Movie Boxsets[/COLOR][/B]"
         },
         {
             "type": "dir",
             "title": "[B][COLORredi]Lemonade - 2022 Movies - TMDB List[/COLOR][/B]",
+            "summary": "2022 Movies via TMDB",
             "link": "tmdb/list/8198974"
         },
         {
             "type": "dir",
             "title": "[B][COLORkhaki]TMDB Top 250[/COLOR][/B]",
+            "summary": "TMDB Top 250",
             "link": "tmdb/list/634"
         },
         {
             "type": "dir",
             "title": "[B][COLORkhaki]TMDB Now Playing[/COLOR][/B]",
+            "summary": "TMDB Now playing Movies",
             "link": "tmdb/movie/now_playing"
         },        
         {

@@ -1,7 +1,7 @@
 {
     "items": [
          {
-            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Live%20TV/Sport/uksport.json", 
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Live%20TV/Sport/uksport.json", 
             "summary": "UK Sport Channels", 
             "type": "dir", 
             "thumbnail": "https://i.postimg.cc/bJXsYT2J/image.png", 

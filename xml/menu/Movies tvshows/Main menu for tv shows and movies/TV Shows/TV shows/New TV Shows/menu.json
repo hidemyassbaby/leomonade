@@ -20,6 +20,13 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/M1q0HuyRnqxP8Si54srsPREFIH.jpg",
             "summary": "This new Colombian telenovela is about a man who has to watch his wife die and have her heart extracted to give to another woman. He’s out for revenge in the world of organ trafficking.",
             "link": "tmdb/tvshow/158916"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLORkhaki]Heartstopper (2022)[/COLOR][/B]",
+            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/wJJt1HG62h3WoGnLcRIbO2nNNkg.jpg",
+            "summary": "Charlie, a highly strung, openly gay over-thinker, and Nick, a cheerful soft-hearted rugby player, meet at a British all-boys grammar school. Friendship blooms quickly, but could there be something more...? Based on Alice Oseman's bestselling graphic novel series HEARTSTOPPER.",
+            "link": "tmdb/tvshow/124834"
         }
     ]
 }

@@ -21,7 +21,7 @@
                 "https://syd2.download.real-debrid.com/d/WP72U2JZDIDW242/d.o.t.b.s.2019.1080p.bluray.x264-scare.mkv(Link 2 - Free)"
             ],
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BNThjY2VjMjktNGI0Yy00NjMwLWE1YTQtZWE3ZjExZThjODA3XkEyXkFqcGdeQXVyOTM5NzYzNTU@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-            "title": "[COLORorange]The Water Diary[/COLOR]",
+            "title": "[COLORorange]Days of the Bangnold Summer/COLOR]",
             "summary": "A teenager spends his summer listening to heavy metal music and trying to get along with his librarian mom.",
             "type": "item",
             "year": "2019"
@@ -37,6 +37,18 @@
             "summary": "The US-Mexican border in 1888. In Dry River, a desert town debilitated by drought, a promise of gold will bring hope, love, and death in equal measure.",
             "type": "item",
             "year": "2021"
+        },
+        {
+            "content": "movie",
+            "imdb": "tt18305072",
+            "link": [
+                "http://103.222.20.150/ftpdata/Movies/animation/2022/DC%20Showcase%20Constantine%20-%20The%20House%20Of%20Mystery%20%282022%29/DC.Showcase.Constantine.-.The.House.Of.Mystery.2022.720p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4(Link 1 - 1080p Free)"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTUwM2YxYjYtMDZmMi00NzRjLWJjYjYtOWI5NDA2Mjg1ZjJmXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_QL75_UY562_CR2,0,380,562_.jpg",
+            "title": "[COLORorange]DC Showcase: Constantine - The House of Mystery[/COLOR]",
+            "summary": "Occult detective John Constantine is trapped in the House of Mystery, a secret domain where none can escape from.",
+            "type": "item",
+            "year": "2022"
         }
 
     ]

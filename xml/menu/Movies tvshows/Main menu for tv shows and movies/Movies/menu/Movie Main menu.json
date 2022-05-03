@@ -1,5 +1,12 @@
 {
     "items": [
+        {
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/1%20clicks/menu.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png",
+            "summary": "1 Click Movies Real-Debrid & Free Links", 
+            "title": "[B][COLORredi]1 Click Movies[/COLOR][/B]"
+        },
     	{
             "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/Studio.json", 
             "type": "dir", 

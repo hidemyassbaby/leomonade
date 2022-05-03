@@ -12,46 +12,48 @@
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png",
             "summary": "Movies by Studio's", 
-            "title": "[B][COLORredi]Movie - Studio's[/COLOR][/B]"
+            "title": "[B][COLORredi]Movie - Studio's - Scraped by Lemonade Scrapers - Real-Debrid Required[/COLOR][/B]"
         },
         {
             "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/collections%20boxsets/menu.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png",
-            "summary": "Movie Boxsets - Complete Sets of Movies in one place",
+            "summary": "Movie Boxsets - Complete Sets of Movies in one place - Real-Debrid Required",
             "title": "[B][COLORredi]Movie Boxsets[/COLOR][/B]"
         },
         {
             "type": "dir",
-            "title": "[B][COLORredi]Lemonade - 2022 Movies - TMDB List[/COLOR][/B]",
-            "summary": "2022 Movies via TMDB",
+            "title": "[B][COLORredi]Lemonade - 2022 Movies[/COLOR][/B]",
+            "summary": "2022 Movies Links Scraped by Lemonade Scrapers - Real-Debrid Required",
             "link": "tmdb/list/8198974"
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]TMDB Top 250[/COLOR][/B]",
-            "summary": "TMDB Top 250",
+            "title": "[B][COLORkhaki]Top 250[/COLOR][/B]",
+            "summary": "TMDB Top 250 - Real-Debrid Required",
             "link": "tmdb/list/634"
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]TMDB Now Playing[/COLOR][/B]",
-            "summary": "TMDB Now playing Movies",
+            "title": "[B][COLORkhaki]Now Playing[/COLOR][/B]",
+            "summary": "TMDB Now playing Movies - Real-Debrid Required",
             "link": "tmdb/movie/now_playing"
         },        
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]TMDB Popular[/COLOR][/B]",
+            "title": "[B][COLORkhaki]Popular[/COLOR][/B]",
+            "summary": "TMDB Popular Movies - Real-Debrid Required",
             "link": "tmdb/movie/popular"
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]TMDB Top Rated[/COLOR][/B]",
+            "title": "[B][COLORkhaki]Top Rated[/COLOR][/B]",
+            "summary": "Top Rated Movies - Real-Debrid Required",
             "link": "tmdb/movie/top_rated"
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]TMDB Upcoming[/COLOR][/B]",
+            "title": "[B][COLORkhaki]Upcoming[/COLOR][/B]",
             "link": "tmdb/movie/upcoming"
         },
         {

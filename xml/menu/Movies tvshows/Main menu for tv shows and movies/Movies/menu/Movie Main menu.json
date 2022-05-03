@@ -12,6 +12,31 @@
             "link": "tmdb/list/8198974"
         },
         {
+            "type": "dir",
+            "title": "[B][COLORkhaki]TMDB Top 250[/COLOR][/B]",
+            "link": "tmdb/list/634"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLORkhaki]TMDB Now Playing[/COLOR][/B]",
+            "link": "tmdb/movie/now_playing"
+        },        
+        {
+            "type": "dir",
+            "title": "[B][COLORkhaki]TMDB Popular[/COLOR][/B]",
+            "link": "tmdb/movie/popular"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLORkhaki]TMDB Top Rated[/COLOR][/B]",
+            "link": "tmdb/movie/top_rated"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLORkhaki]TMDB Upcoming[/COLOR][/B]",
+            "link": "tmdb/movie/upcoming"
+        },
+        {
             "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/kids/kids%20menu.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 

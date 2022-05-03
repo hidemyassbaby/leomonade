@@ -1,12 +1,15 @@
 {
     "items": [
-    	{
-            "type": "item",
-            "title": "[B][COLORlightblue]The Wiggles Movie[/COLOR][/B]",
-            "link": "search", 
-            "year": "1997",
+        {
             "content": "movie",
-            "imdb_id": "tt0128842" ,
+            "imdb": "tt0128842",
+            "link": [
+                "https://archive.org/download/the-wiggles-movie/The%20Wiggles%20Movie.mp4"
+            ],
+            "thumbnail": "https://i.postimg.cc/h4sgn2d6/The-Wiggles-Movie-1997-Poster.jpg",
+            "title": "[B][COLORlightblue]The Wiggles Movie[/COLOR][/B]",
+            "type": "item",
+            "year": "1997",
             "summary": "The Wiggles throw a surprise party for Dorothy the Dinosaur, while she goes after a magician who takes Greg's magic wand to become popular."
         }
     ]

@@ -7,7 +7,7 @@
             "title": "[COLOR=red][B]Addon Version 3.4[/B][/COLOR]"
         },
         {
-            "link": "https://github.com/hidemyassbaby/leomonade/blob/main/xml/menu/Movies%20tvshows/movietvshows.json", 
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/movietvshows.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "title": "Movies & TV Shows - BETA"

@@ -7,6 +7,11 @@
             "title": "[B][COLORredi]Movie - Studio's[/COLOR][/B]"
         },
         {
+            "type": "dir",
+            "title": "[B][COLORredi]Lemonade - 2022 Movies - TMDB List[/COLOR][/B]",
+            "link": "tmdb/list/8198974"
+        },
+        {
             "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/Movies/menu/kids/kids%20menu.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 

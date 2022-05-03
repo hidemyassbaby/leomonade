@@ -5,6 +5,12 @@
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "title": "[B][COLORredi]Movies | TV Shows Under Construction[/COLOR][/B]"
+        },
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Movies%20tvshows/test%20area%20for%20movies%20and%20tvshows/test%20arena%20for%20movies%20and%20tvshows.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "[B][COLORredi]Movies | TV Shows Test Area[/COLOR][/B]"
         }
     ]
 }

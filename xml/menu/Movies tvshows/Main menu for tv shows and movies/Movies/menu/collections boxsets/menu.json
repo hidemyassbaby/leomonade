@@ -103,7 +103,38 @@
             "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bO9NvwpSElW8lp33fGyy8VaS5s9.jpg", 
             "summary": "Mabel - Madea Simmons is a character created and portrayed by Tyler Perry. The character is a tough elderly black woman. Madea has appeared in several plays directed by, written by, and starring Tyler Perry, later appearing in films based on those plays.",
             "title": "[B][COLORredi]Madea - Collection[/B][/COLOR]"
-        }
-        
+        },
+        {
+            "fanart": "https://i.postimg.cc/Qtsnzq4q/Wallpaper-Dog-20493433.jpg", 
+            "link": "tmdb/collection/645", 
+            "type": "dir", 
+            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/HORpg5CSkmeQlAolx3bKMrKgfi.jpg", 
+            "summary": "The James Bond film series is a British series of spy films based on the fictional character of MI6 agent James Bond, codename - 007. With all of the action, adventure, gadgetry & film scores that Bond is famous for. (We do not consider the 1954 release of Casino Royale for this series because it was actually a television episode and not a theatrical film.)",
+            "title": "[B][COLORredi]James Bond Collection[/B][/COLOR]"
+        },
+        {
+            "fanart": "https://i.postimg.cc/Qtsnzq4q/Wallpaper-Dog-20493433.jpg", 
+            "link": "tmdb/collection/87359", 
+            "type": "dir", 
+            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/geEjCGfdmRAA1skBPwojcdvnZ8A.jpg", 
+            "summary": "Mission: Impossible is a series of a secret agent thriller films based on the popular television series. They chronicle the missions of a team of secret government agents known as the Impossible Missions Force (IMF) under the leadership of Hunt.",
+            "title": "[B][COLORredi]Mission: Impossible Collection[/B][/COLOR]"
+        },
+        {
+            "fanart": "https://i.postimg.cc/Qtsnzq4q/Wallpaper-Dog-20493433.jpg", 
+            "link": "tmdb/collection/295", 
+            "type": "dir", 
+            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/zRBaZxS5YauLvRYjAdL4AUCwlht.jpg", 
+            "summary": "A series of fantasy swashbuckler films based on Walt Disney's theme park ride of the same name. The films follow the adventures of Captain Jack Sparrow and take place in a fictional historical setting; a world ruled by the British Empire, the East India Trading Company and the Spanish Empire, with pirates representing freedom from the ruling powers.",
+            "title": "[B][COLORredi]Pirates of the Caribbean Collection[/B][/COLOR]"
+        },
+        {
+            "fanart": "https://i.postimg.cc/Qtsnzq4q/Wallpaper-Dog-20493433.jpg", 
+            "link": "tmdb/collection/8581", 
+            "type": "dir", 
+            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/nO9j4qsCxBVpPwXtFxQr5gWIzfu.jpg", 
+            "summary": "A slasher film series revolving around people who are stalked and killed in their dreams by Freddy Krueger.",
+            "title": "[B][COLORredi]A Nightmare on Elm Street Collection[/B][/COLOR]"
+        }       
     ]
 }

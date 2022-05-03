@@ -17,7 +17,7 @@
             "content": "movie",
             "imdb": "tt7343740",
             "link": [
-                "https://uploadgig.com/file/download/e19482bd8C961a21/d.o.t.b.s.2019.1080p.bluray.x264-scare.mkvLink 1 - Real-Debrid)",
+                "https://uploadgig.com/file/download/e19482bd8C961a21/d.o.t.b.s.2019.1080p.bluray.x264-scare.mkv(Link 1 - Real-Debrid)",
                 "https://syd2.download.real-debrid.com/d/WP72U2JZDIDW242/d.o.t.b.s.2019.1080p.bluray.x264-scare.mkv(Link 2 - Free)"
             ],
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BNThjY2VjMjktNGI0Yy00NjMwLWE1YTQtZWE3ZjExZThjODA3XkEyXkFqcGdeQXVyOTM5NzYzNTU@._V1_QL75_UY562_CR0,0,380,562_.jpg",
@@ -25,6 +25,18 @@
             "summary": "A teenager spends his summer listening to heavy metal music and trying to get along with his librarian mom.",
             "type": "item",
             "year": "2019"
+        },
+        {
+            "content": "movie",
+            "imdb": "tt9168164",
+            "link": [
+                "http://www.lemaurecourtois.com/film/Gunfight.at.Dry.River.2021.1080p.mkv(Link 1 - 1080p Free)"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGZiZmM5YjUtYmZhOS00YTNjLWFjNjktMTNmNGQ5NWRmZjhmXkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_QL75_UY562_CR5,0,380,562_.jpg",
+            "title": "[COLORorange]Gunfight at Dry River[/COLOR]",
+            "summary": "The US-Mexican border in 1888. In Dry River, a desert town debilitated by drought, a promise of gold will bring hope, love, and death in equal measure.",
+            "type": "item",
+            "year": "2021"
         }
 
     ]

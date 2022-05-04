@@ -83,7 +83,30 @@
             "type": "dir",
             "title": "[COLOR red][B]Samsung TV Plus[/COLOR][/B]",
             "samsung_tv": "regions"
-        }
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://github.com/iptv-org/iptv/raw/master/streams/us_redbox.m3u",
+            "summary": "Red Box - M3U List Sourced Online",
+            "thumbnail": "https://icons.iconarchive.com/icons/designbolts/free-multimedia/512/TV-icon.png",
+            "title": "[COLOR red]Red Box[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://github.com/iptv-org/iptv/raw/master/streams/us_xumo.m3u",
+            "summary": "Xumo TV - M3U List Sourced Online",
+            "thumbnail": "https://i.postimg.cc/13LVLdJ1/image.png",
+            "title": "[COLOR red]Xumo TV[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
            
     ]
 }
+

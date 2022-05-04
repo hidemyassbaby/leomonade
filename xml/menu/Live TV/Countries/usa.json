@@ -1,6 +1,17 @@
 {
     "items": [
         {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://github.com/iptv-org/iptv/raw/master/streams/us_fubo.m3u",
+            "summary": "Fubo TV - M3U List Sourced Online",
+            "thumbnail": "https://i.postimg.cc/1RpBMGRz/image.png",
+            "title": "[COLOR=white]Fubo TV[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
             "link": [
                 "http://1942468522.rsc.cdn77.org/7mZzltx8DwHb1C4OifYD8A==,1651056048/1942468522/tracks-v1a1/mono.m3u8"
             ], 

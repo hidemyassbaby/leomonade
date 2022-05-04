@@ -12,6 +12,17 @@
             "year": "2022"
         },
         {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://github.com/iptv-org/iptv/raw/master/streams/us_localbtv.m3u",
+            "summary": "USA Local - M3U List Sourced Online",
+            "thumbnail": "https://files.softicons.com/download/web-icons/world-cup-flags-icons-by-custom-icon-design/png/512x512/USA.png",
+            "title": "[COLOR=white]USA Local[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        },
+        {
             "link": [
                 "http://1942468522.rsc.cdn77.org/7mZzltx8DwHb1C4OifYD8A==,1651056048/1942468522/tracks-v1a1/mono.m3u8"
             ], 
@@ -40,4 +51,3 @@
         } 
     ]
 }
- 

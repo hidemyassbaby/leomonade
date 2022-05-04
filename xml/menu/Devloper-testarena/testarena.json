@@ -84,9 +84,9 @@
         },
         {
             "fanart": "http://", 
-            "link": "plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/index.m3u", 
+            "link": "plugin.video.live.streamspro/?mode=1&url=http://iptv-org.github.io/iptv/index.m3u", 
             "type": "plugin", 
-            "thumbnail": "http;//", 
+            "thumbnail": "http://", 
             "title": "Test 123"
         }
     ]

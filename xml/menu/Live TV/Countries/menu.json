@@ -127,6 +127,17 @@
             "title": "[COLOR red]Roku[/COLOR]",
             "type": "dir",
             "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://iptv-org.github.io/iptv/categories/news.m3u",
+            "summary": "News test - M3U List Sourced Online",
+            "thumbnail": "https://ia804506.us.archive.org/20/items/roku-channel-v-1.0.0-adfree/Roku%20Channel.png",
+            "title": "[COLOR red]test news m3u[/COLOR]",
+            "type": "dir",
+            "year": "2022"
         }
            
     ]

@@ -82,12 +82,12 @@
             "type": "dir",
             "year": "2022"
         },
-        { 
-            "title": "[COLOR khaki]test playlist m3u[/COLOR]", 
+        {
+            "fanart": "http://", 
+            "link": "plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/index.m3u", 
             "type": "plugin", 
-            "link": "plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/index.m3u", 
-            "summary": "TEST M3U",
-            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+            "thumbnail": "http;//", 
+            "title": "Test 123"
         }
     ]
 }

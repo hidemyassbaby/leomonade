@@ -81,13 +81,6 @@
             "title": "[COLOR red]test news m3u[/COLOR]",
             "type": "dir",
             "year": "2022"
-        },
-        { 
-            "title": "[COLOR khaki]test playlist m3u[/COLOR]", 
-            "type": "plugin", 
-            "link": "plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/index.m3u", 
-            "summary": "** New Episodes Every Monday ** Ex-con artist Jimmy McGill turns into a small-time attorney and goes through a series of trials and tragedies, as he transforms into his alter ego Saul Goodman, a morally challenged criminal lawyer",
-            "thumbnail": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
         }
     ]
 }

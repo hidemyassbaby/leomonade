@@ -116,8 +116,21 @@
             "title": "[COLOR red]Tubi[/COLOR]",
             "type": "dir",
             "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://github.com/iptv-org/iptv/raw/master/streams/us_roku.m3u",
+            "summary": "Roku - M3U List Sourced Online",
+            "thumbnail": "https://ia804506.us.archive.org/20/items/roku-channel-v-1.0.0-adfree/Roku%20Channel.png",
+            "title": "[COLOR red]Roku[/COLOR]",
+            "type": "dir",
+            "year": "2022"
         }
            
     ]
 }
+
+
 

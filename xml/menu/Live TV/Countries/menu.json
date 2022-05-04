@@ -106,6 +106,17 @@
             "type": "dir",
             "year": "2022"
         },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://github.com/iptv-org/iptv/raw/master/streams/us_tubi.m3u",
+            "summary": "Tubi - M3U List Sourced Online",
+            "thumbnail": "https://cdn.adrise.tv/image/app_icon_200x200.png",
+            "title": "[COLOR red]Tubi[/COLOR]",
+            "type": "dir",
+            "year": "2022"
+        }
            
     ]
 }

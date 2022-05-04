@@ -75,10 +75,10 @@
             "content": "season",
             "fanart": "",
             "imdb": "",
-            "link": "https://iptv-org.github.io/iptv/categories/news.m3u",
+            "link": "https://m3u-editor.com/serve/d15a25a0-cb7d-11ec-b91e-eb501fb55076",
             "summary": "News test - M3U List Sourced Online",
             "thumbnail": "https://ia804506.us.archive.org/20/items/roku-channel-v-1.0.0-adfree/Roku%20Channel.png",
-            "title": "[COLOR red]test news m3u[/COLOR]",
+            "title": "[COLOR red]test m3u editor list[/COLOR]",
             "type": "dir",
             "year": "2022"
         }

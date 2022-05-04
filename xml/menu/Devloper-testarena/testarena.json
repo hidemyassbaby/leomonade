@@ -81,13 +81,6 @@
             "title": "[COLOR red]test news m3u[/COLOR]",
             "type": "dir",
             "year": "2022"
-        },
-        {
-            "fanart": "http://", 
-            "link": "plugin.video.live.streamspro/?mode=1&url=http://iptv-org.github.io/iptv/index.m3u", 
-            "type": "plugin", 
-            "thumbnail": "http://", 
-            "title": "Test 123"
         }
     ]
 }

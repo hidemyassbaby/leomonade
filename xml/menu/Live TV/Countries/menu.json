@@ -83,61 +83,6 @@
             "type": "dir",
             "title": "[COLOR red][B]Samsung TV Plus[/COLOR][/B]",
             "samsung_tv": "regions"
-        },
-        {
-            "content": "season",
-            "fanart": "",
-            "imdb": "",
-            "link": "https://github.com/iptv-org/iptv/raw/master/streams/us_redbox.m3u",
-            "summary": "Red Box - M3U List Sourced Online",
-            "thumbnail": "https://icons.iconarchive.com/icons/designbolts/free-multimedia/512/TV-icon.png",
-            "title": "[COLOR red]Red Box[/COLOR]",
-            "type": "dir",
-            "year": "2022"
-        },
-        {
-            "content": "season",
-            "fanart": "",
-            "imdb": "",
-            "link": "https://github.com/iptv-org/iptv/raw/master/streams/us_xumo.m3u",
-            "summary": "Xumo TV - M3U List Sourced Online",
-            "thumbnail": "https://i.postimg.cc/13LVLdJ1/image.png",
-            "title": "[COLOR red]Xumo TV[/COLOR]",
-            "type": "dir",
-            "year": "2022"
-        },
-        {
-            "content": "season",
-            "fanart": "",
-            "imdb": "",
-            "link": "https://github.com/iptv-org/iptv/raw/master/streams/us_tubi.m3u",
-            "summary": "Tubi - M3U List Sourced Online",
-            "thumbnail": "https://cdn.adrise.tv/image/app_icon_200x200.png",
-            "title": "[COLOR red]Tubi[/COLOR]",
-            "type": "dir",
-            "year": "2022"
-        },
-        {
-            "content": "season",
-            "fanart": "",
-            "imdb": "",
-            "link": "https://github.com/iptv-org/iptv/raw/master/streams/us_roku.m3u",
-            "summary": "Roku - M3U List Sourced Online",
-            "thumbnail": "https://ia804506.us.archive.org/20/items/roku-channel-v-1.0.0-adfree/Roku%20Channel.png",
-            "title": "[COLOR red]Roku[/COLOR]",
-            "type": "dir",
-            "year": "2022"
-        },
-        {
-            "content": "season",
-            "fanart": "",
-            "imdb": "",
-            "link": "https://iptv-org.github.io/iptv/categories/news.m3u",
-            "summary": "News test - M3U List Sourced Online",
-            "thumbnail": "https://ia804506.us.archive.org/20/items/roku-channel-v-1.0.0-adfree/Roku%20Channel.png",
-            "title": "[COLOR red]test news m3u[/COLOR]",
-            "type": "dir",
-            "year": "2022"
         }
            
     ]

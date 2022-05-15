@@ -1,0 +1,12 @@
+{
+    "items": [     
+         { 
+            "type": "dir", 
+            "title": "[COLOR White]YouTube Channel[/COLOR]", 
+            "link": "https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw", 
+            "summary": "Tracking and identifying scammers who knock my front door, call me or shove popups onto my computer screen.",
+            "thumbnail": "https://i.postimg.cc/XYrShVCm/image.png", 
+            "fanart": "https://i.postimg.cc/XYrShVCm/image.png"
+        }
+    ]
+}

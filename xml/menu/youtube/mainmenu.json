@@ -1,5 +1,12 @@
 {
     "items": [
+        { 
+            "title": "[COLOR khaki]Sign In[/COLOR]", 
+            "type": "plugin", 
+            "link": "plugin.video.youtube/sign/in/", 
+            "summary": "Sign In - Youtube",
+            "thumbnail": "https://i.postimg.cc/Dw1ZDdst/sign-in.png"
+        },
         {
             "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/youtube/Scam%20Baiters/scambaiters.json", 
             "type": "dir", 

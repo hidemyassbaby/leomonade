@@ -81,6 +81,13 @@
             "title": "[COLOR red]bit.ly test[/COLOR]",
             "type": "dir",
             "year": "2022"
+        },
+        { 
+            "type": "dir", 
+            "title": "[COLOR red]YouTube Channel[/COLOR]", 
+            "link": "https://www.youtube.com/channel/UC-jBkGiRokRd-B2ylx1VqJQ", 
+            "thumbnail": "", 
+            "fanart": ""
         }
     ]
 }

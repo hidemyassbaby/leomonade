@@ -25,6 +25,12 @@
             "title": "Live TV & Sports"
         },
         {
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/youtube/mainmenu.json", 
+            "type": "dir", 
+            "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/youtubelogo_logo_fullcolor_dark.jpg", 
+            "title": "Youtube"
+        },
+        {
             "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/settingmenu.json", 
             "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 

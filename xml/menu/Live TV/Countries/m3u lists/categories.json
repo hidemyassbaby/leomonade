@@ -76,6 +76,17 @@
             "title": "[COLOR=white]Comedy[/COLOR]",
             "type": "dir",
             "year": "2022"
+        },
+        {
+            "content": "season",
+            "fanart": "",
+            "imdb": "",
+            "link": "https://iptv-org.github.io/iptv/categories/cooking.m3u",
+            "summary": "cooking  - Free TV List",
+            "thumbnail": "https://icon-library.com/images/tv-icon-png/tv-icon-png-9.jpg",
+            "title": "[COLOR=white]Cooking[/COLOR]",
+            "type": "dir",
+            "year": "2022"
         }
 
     ]

@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "link": "https://", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "[COLOR=red][B]Addon Version 5.5[/B][/COLOR]"
+        },
+        { 
+            "type": "item", 
+            "title": "[COLOR=white][B]Update | News [/B][/COLOR]", 
+            "link": "message/http://narcacist.com/fourk/4k.xml", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "fanart": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png"
+        }, 
+        {
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/movietvshows.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "summary": "Collection Of Movie's & TV Shows for you to watch",
+            "title": "Movies & TV Shows [COLOR=red][B]- Beta[/B][/COLOR]"
+        },
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Sports/liveevents.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "summary": "Direct Links to Live Sports",
+            "title": "Live Sports"
+        }, 
+        {
+            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Live%20TV/Countries/menu.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "summary": "Live TV & Sports Channels",
+            "title": "Live TV & Sports"
+        },
+        {
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/youtube/mainmenu.json", 
+            "type": "dir", 
+            "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/youtubelogo_logo_fullcolor_dark.jpg", 
+            "summary": "Collection Of Youtube Videos & Channels",
+            "title": "Youtube"
+        },
+        {
+            "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/settingmenu.json", 
+            "type": "dir", 
+            "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
+            "title": "Settings"
+        }
+        
+    ]
+}

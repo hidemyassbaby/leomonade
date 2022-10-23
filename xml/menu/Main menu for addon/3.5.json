@@ -6,13 +6,13 @@
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "title": "[COLOR=red][B]Addon Version 5.5[/B][/COLOR]"
         },
-        {
+        { 
+            "type": "item", 
+            "title": "[COLOR=white][B]Update | News [/B][/COLOR]", 
             "link": "message/http://narcacist.com/fourk/4k.xml", 
-            "type": "dir", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
-            "summary": "Updates",
-            "title": "[COLOR=red][B]Updates | Latest News[/B][/COLOR]"
-        },
+            "fanart": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png"
+        }, 
         {
             "link": "https://github.com/hidemyassbaby/leomonade/raw/main/xml/menu/Movies%20tvshows/Main%20menu%20for%20tv%20shows%20and%20movies/movietvshows.json", 
             "type": "dir", 

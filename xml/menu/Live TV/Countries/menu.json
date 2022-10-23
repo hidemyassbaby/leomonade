@@ -4,6 +4,7 @@
             "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/Live%20TV/Countries/Allchannels.json", 
             "summary": "All TV Channels in one list", 
             "type": "dir", 
+            "imdb": "123456789",
             "thumbnail": "https://i.postimg.cc/VLPbTf1J/image.png", 
             "title": "All Channels"
         },

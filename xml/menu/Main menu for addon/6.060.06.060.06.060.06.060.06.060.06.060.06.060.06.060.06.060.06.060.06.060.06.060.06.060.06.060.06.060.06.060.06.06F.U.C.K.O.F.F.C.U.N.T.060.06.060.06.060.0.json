@@ -9,7 +9,7 @@
         { 
             "type": "item", 
             "title": "[COLOR=white][B]Update | News [/B][/COLOR]", 
-            "link": "message/http://narcacist.com/fourk/4k.xml", 
+            "link": "message/https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/News%20updates%20etc/news%20updates.xml", 
             "thumbnail": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png", 
             "fanart": "https://raw.githubusercontent.com/hidemyassbaby/repository.bangvnine/main/plugin.video.lemonade/icon.png"
         }, 
